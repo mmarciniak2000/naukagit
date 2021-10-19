@@ -1,0 +1,10 @@
+<?php
+function srednia(int s , int b)
+{
+	return (a+b)/2;
+}
+function wazona (int a , int b)
+{
+	return (7*a+2*b)/10;
+}
+?>
